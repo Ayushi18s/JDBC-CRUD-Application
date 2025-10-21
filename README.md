@@ -5,10 +5,15 @@ This project is a simple Java application that demonstrates CRUD (Create, Read, 
 JDBC provides a set of interfaces and classes for Java applications to interact with databases. It allows Java programs to establish connections to databases, execute SQL queries and statements, process query results, and handle transactions. With JDBC, developers can perform CRUD operations to manage data stored in relational databases from their Java applications.
 
 Development Environment and Dependencies
+
 IDE: IntelliJ IDEA
+
 Java Version: Java Development Kit (JDK) 11
+
 Database: MySQL 8.0
+
 JDBC Driver: MySQL Connector/J 8.0.33 (mysql-connector-java-8.0.33.jar)
+
 Logging: Java Util Logging (JUL)
 
 Steps to set up project
